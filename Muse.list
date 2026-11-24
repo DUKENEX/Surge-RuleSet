@@ -1,0 +1,8 @@
+# NAME: Muse
+# AUTHOR: duke
+# UPDATED: 2026-11-24
+
+DOMAIN,agent.meta.ai
+DOMAIN,api.muse.ai
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,applink.muse.ai
