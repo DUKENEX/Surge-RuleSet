@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,museai.com,AI
+DOMAIN-SUFFIX,ecto1.ai,AI
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com,AI
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com,AI
